@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: e167f9ff48b58ca4dad528de5cb69927
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - pongSound: {fileID: 8300000, guid: faef901630931af4e91f6eb779394cb2, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
